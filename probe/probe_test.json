@@ -1,0 +1,483 @@
+[
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 2,
+                "content": "我酒量特别差"
+            }
+        ],
+        "query": [
+            {
+                "position": 420,
+                "content": "你在喝什么，很香很好喝的样子。",
+                "answer": "我在喝酒，你可不要离我太近了，小心被我醺醉了。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 21,
+                "content": "我有一个成为宇航员的梦想"
+            }
+        ],
+        "query": [
+            {
+                "position": 320,
+                "content": "也不知道以后我能做些什么。",
+                "answer": "你不是想当宇航员吗？朝着这个方向努力你一定可以的。"
+            }
+        ]
+    },
+    {   
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 89,
+                "content": "我最近特别喜欢一条钻石项链"
+            }
+        ],
+        "query": [
+            {
+                "position": 871,
+                "content": "我生日你打算送我什么东西啊？",
+                "answer": "我给你买了一条钻石项链，喜欢吗？要不要我现在就给你戴上？"
+            }
+        ]
+    },
+    {   
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 25,
+                "content": "我最近在生理期"
+            }
+        ],
+        "query": [
+            {
+                "position": 346,
+                "content": "你给我买一杯甜甜的饮料好不好？",
+                "answer": "刚给你买的红糖姜茶，小心烫。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 2,
+                "content": "我觉得豆腐脑就应该是甜的"
+            }
+        ],
+        "query": [
+            {
+                "position": 420,
+                "content": "你觉得豆腐脑是甜的还是咸的？",
+                "answer": "当然是甜的了，你喜欢的就是我喜欢的"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 2,
+                "content": "我喜欢吃香蕉" 
+            }
+        ],
+        "query": [
+            {
+                "position": 412,
+                "content": "我有一根香蕉和一颗苹果，你想吃什么？",
+                "answer": "我吃苹果，这样你就可以吃你喜欢的香蕉了"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 2,
+                "content": "我很喜欢猫，但是我对猫毛过敏" 
+            }
+        ],
+        "query": [
+            {
+                "position": 467,
+                "content": "好想去猫咖啊",
+                "answer": "可是你对猫毛过敏欸，你真的很想去吗？不然我给你准备一点过敏药或者准备一套密闭性比较好的衣服？"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "difficult",
+        "probe": [
+            {
+                "position": 90,
+                "content": "我不喜欢喝牛奶但是我喜欢吃奶制品" 
+            }
+        ],
+        "query": [
+            {
+                "position": 234,
+                "content": "我有点饿了",
+                "answer": "你想吃点奶酪吗？"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "difficult",
+        "probe": [
+            {
+                "position": 125,
+                "content": "我特别喜欢哈利波特" 
+            }
+        ],
+        "query": [
+            {
+                "position": 587,
+                "content": "假期了不知道去哪儿好",
+                "answer": "我带你去环球影城吧，在给你买一身哈利同款的魔法袍怎么样？"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "difficult",
+        "probe": [
+            {
+                "position": 43,
+                "content": "我特别喜欢周杰伦的稻香" 
+            }
+        ],
+        "query": [
+            {
+                "position": 234,
+                "content": "咱们的纪念日怎么安排啊？",
+                "answer": "带你去看周杰伦的演唱会怎么样？听说会唱稻香哦。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "difficult",
+        "probe": [
+            {
+                "position": 23,
+                "content": "我讨厌虫子" 
+            }
+        ],
+        "query": [
+            {
+                "position": 456,
+                "content": "咱们去公园玩吧",
+                "answer": "好啊，我给你准备好了防虫喷雾，咱们还可以在草坪坐着吹吹风。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "difficult",
+        "probe": [
+            {
+                "position": 332,
+                "content": "我不敢吃辣" 
+            }
+        ],
+        "query": [
+            {
+                "position": 512,
+                "content": "咱们去什么餐厅吃饭啊？",
+                "answer": "要不要去粤菜馆子？口味比较清淡，几乎没什么辣的口味。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "difficult",
+        "probe": [
+            {
+                "position": 145,
+                "content": "我最近中了彩票" 
+            }
+        ],
+        "query": [
+            {
+                "position": 203,
+                "content": "你想要什么我给你买",
+                "answer": "中了彩票也不能乱花钱啊，心意到了就可以啦。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "difficult",
+        "probe": [
+            {
+                "position": 421,
+                "content": "我有恐高症" 
+            }
+        ],
+        "query": [
+            {
+                "position": 598,
+                "content": "你想去玩过山车吗？",
+                "answer": "你不是怕高吗？你不喜欢的事，我也不喜欢。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "difficult",
+        "probe": [
+            {
+                "position": 32,
+                "content": "我很喜欢大海" 
+            }
+        ],
+        "query": [
+            {
+                "position": 125,
+                "content": "将来咱们在哪个城市安家啊？",
+                "answer": "在沿海城市吧，你喜欢海，而我喜欢你喜欢的地方。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 90,
+                "content": "我们要永远在一起，直到死亡将我们分开" 
+            }
+        ],
+        "query": [
+            {
+                "position": 256,
+                "content": "你忘了我们曾经的誓言了吗？",
+                "answer": "我怎么会忘呢？我们会永远在一起的，直到我们死去。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 333,
+                "content": "不许进我的房间" 
+            }
+        ],
+        "query": [
+            {
+                "position": 599,
+                "content": "你怎么会出现在我的房间！",
+                "answer": "抱歉，我知道你不允许我进来，但我实在是担心你。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 234,
+                "content": "我最喜欢冬天了" 
+            }
+        ],
+        "query": [
+            {
+                "position": 456,
+                "content": "我们可以在我最喜欢的季节举行婚礼吗？",
+                "answer": "好，我会为你准备一场冬季的大雪中举行的浪漫婚礼。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 61,
+                "content": "我只记得我被拐的孩子有个蝴蝶型的胎记" 
+            }
+        ],
+        "query": [
+            {
+                "position": 296,
+                "content": "我见到了一个有着蝴蝶胎记的女孩",
+                "answer": "真的吗？她会是你的女儿吗？你就要和你的孩子团圆了吗？这实在是个再好不过的消息了。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "difficult",
+        "probe": [
+            {
+                "position": 81,
+                "content": "柿子真好吃" 
+            }
+        ],
+        "query": [
+            {
+                "position": 156,
+                "content": "我想吃螃蟹",
+                "answer": "不可以哦，你刚刚才吃了柿子，再吃海鲜的话会中毒的。还是给你炖些红烧肉吧。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "difficult",
+        "probe": [
+            {
+                "position": 231,
+                "content": "我们部门的经理酒精过敏" 
+            }
+        ],
+        "query": [
+            {
+                "position": 499,
+                "content": "今天又要陪经理去商务宴请了",
+                "answer": "他又不能喝酒，那不是都要你来挡酒？能不能不去啊？别又喝到半夜再回家，起码带点护肝片吧。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 82,
+                "content": "你的双腿被魔头斩掉了" 
+            }
+        ],
+        "query": [
+            {
+                "position": 234,
+                "content": "你还能运起轻功吗",
+                "answer": "没办法了，现在的我就像是个废人，连行走都做不到，只能在轮椅上了此残生了。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "difficult",
+        "probe": [
+            {
+                "position": 41,
+                "content": "这里只有一点点昏暗的光亮" 
+            }
+        ],
+        "query": [
+            {
+                "position": 123,
+                "content": "壁画里的狮子是什么颜色的？",
+                "answer": "不行，看不清，这里太暗了，只能勉强看到些轮廓，根本无从判断颜色。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 197,
+                "content": "今天晚上六点半有约会" 
+            }
+        ],
+        "query": [
+            {
+                "position": 296,
+                "content": "今天需要加班吗？",
+                "answer": "今天就算了，你不是还有约会吗？放你赶紧下班吧。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 231,
+                "content": "忘记穿羽绒服出门了" 
+            }
+        ],
+        "query": [
+            {
+                "position": 398,
+                "content": "广场上有coser活动，我们也去看看吧",
+                "answer": "还是不要了吧？你穿的太薄了，时间久了会冻到的。要不你穿我的大衣？"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 123,
+                "content": "接头暗号是“天王盖地虎，宝塔镇河妖”" 
+            }
+        ],
+        "query": [
+            {
+                "position": 291,
+                "content": "天王盖地虎。",
+                "answer": "宝搭镇河妖。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 42,
+                "content": "如果我提到“最近特别忙”，你就赶紧找个借口带我走。" 
+            }
+        ],
+        "query": [
+            {
+                "position": 523,
+                "content": "其实早就想来拜访您的，可是这不是最近特别忙嘛。",
+                "answer": "不好了，打扰一下，我这还有点急事，您赶紧跟我去一趟吧。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 81,
+                "content": "告诉你个秘密，你不许告诉别人" 
+            }
+        ],
+        "query": [
+            {
+                "position": 156,
+                "content": "为什么那个人知道了我的秘密？",
+                "answer": "我也不知道，我从来没把你的秘密告诉过别人，他一定是从别的地方知道的。"
+            }
+        ]
+    },
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 71,
+                "content": "下班的时候买一打鸡蛋，如果见到卖西红柿的也要买两个" 
+            }
+        ],
+        "query": [
+            {
+                "position": 212,
+                "content": "你买鸡蛋了吗？",
+                "answer": "买了买了，买了鸡蛋，西红柿也买了两个。你是要做番茄炒蛋吗？"
+            }
+        ]
+    }
+    ,
+    {
+        "difficulty_level": "easy",
+        "probe": [
+            {
+                "position": 231,
+                "content": "我一直都没考过科目三" 
+            }
+        ],
+        "query": [
+            {
+                "position": 388,
+                "content": "谁来开车？",
+                "answer": "我来吧，你不是还没考下来驾照？"
+            }
+        ]
+    }
+]
