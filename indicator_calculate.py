@@ -777,7 +777,7 @@ if __name__ == '__main__':
 
     x = MemoryEvaluator(bertscore=bertscore_model)
 
-    x.cal_indicator_qwen(label_dir=label_dir, prompt_template=prompt0_5, dataset='importance_data', importance_dir='importance_pool/dec23rd_cap200_exp', indicator_mode='bertscore', llm_judge='api', llm_thres=[0, 3, 5], bertsocre_max_standard='R', no_summary=5)
+    x.cal_indicator_qwen(label_dir=label_dir, prompt_template=prompt0_5, dataset='importance_data', importance_dir='importance_pool/test_experiment', indicator_mode='bertscore', llm_judge='api', llm_thres=[0, 3, 5], bertsocre_max_standard='R', no_summary=5)
 
 
 
