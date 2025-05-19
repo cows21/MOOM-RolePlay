@@ -99,7 +99,7 @@ mem0_local_model = {
 }
 
 
-experiments_name = 'dec27th_cap9999_add_forprobe_allapi_false'
+experiments_name = 'test_experiment'
 
 mem0_config["vector_store"]["config"]["path"] = os.path.join(mem0_config["vector_store"]["config"]["path"], experiments_name)
     
